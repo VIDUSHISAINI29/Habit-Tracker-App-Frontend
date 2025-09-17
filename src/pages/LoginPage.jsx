@@ -106,14 +106,14 @@ const Login = () => {
         </div>
 
         {/* Optional Social Login */}
-        <div className="flex gap-4 mt-6">
+        {/* <div className="flex gap-4 mt-6">
           <button className="flex-1 py-2 text-sm font-medium text-white transition bg-blue-500 rounded-lg shadow-md hover:bg-blue-600">
             Continue with Google
           </button>
           <button className="flex-1 py-2 text-sm font-medium text-white transition bg-gray-800 rounded-lg shadow-md hover:bg-gray-900">
             Continue with GitHub
           </button>
-        </div>
+        </div> */}
       </motion.div>
     </div>
   );
